@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-egg-timer/static/css/main.55f9b468.chunk.css",
+    "main.js": "/react-egg-timer/static/js/main.6291c824.chunk.js",
+    "main.js.map": "/react-egg-timer/static/js/main.6291c824.chunk.js.map",
+    "runtime-main.js": "/react-egg-timer/static/js/runtime-main.a7dc2b3c.js",
+    "runtime-main.js.map": "/react-egg-timer/static/js/runtime-main.a7dc2b3c.js.map",
+    "static/js/2.d8be5ba1.chunk.js": "/react-egg-timer/static/js/2.d8be5ba1.chunk.js",
+    "static/js/2.d8be5ba1.chunk.js.map": "/react-egg-timer/static/js/2.d8be5ba1.chunk.js.map",
+    "static/js/3.19b51149.chunk.js": "/react-egg-timer/static/js/3.19b51149.chunk.js",
+    "static/js/3.19b51149.chunk.js.map": "/react-egg-timer/static/js/3.19b51149.chunk.js.map",
+    "index.html": "/react-egg-timer/index.html",
+    "static/css/main.55f9b468.chunk.css.map": "/react-egg-timer/static/css/main.55f9b468.chunk.css.map",
+    "static/js/2.d8be5ba1.chunk.js.LICENSE.txt": "/react-egg-timer/static/js/2.d8be5ba1.chunk.js.LICENSE.txt",
+    "static/media/beep.d998d7a7.wav": "/react-egg-timer/static/media/beep.d998d7a7.wav",
+    "static/media/eggicon.9c9c8fd9.svg": "/react-egg-timer/static/media/eggicon.9c9c8fd9.svg",
+    "static/media/App.css": "/react-egg-timer/static/media/eggs.6405675c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7dc2b3c.js",
+    "static/js/2.d8be5ba1.chunk.js",
+    "static/css/main.55f9b468.chunk.css",
+    "static/js/main.6291c824.chunk.js"
+  ]
+}
