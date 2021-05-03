@@ -5,8 +5,8 @@ import beep from "../audio/beep.wav";
 const Timer = () => {
   const [timeLeft, setTimeLeft] = useState("");
 
-  const playBeep = (beepsound) => {
-    beepsound = new Audio(beep);
+  const playBeep = () => {
+    const beepsound = new Audio(beep);
     beepsound.play();
   };
 
@@ -19,9 +19,9 @@ const Timer = () => {
     }
   };
 
-  const displayTimeLeft = (minutes, seconds) => {
-    minutes = parseInt(timeLeft / 60, 10);
-    seconds = parseInt(timeLeft % 60, 10);
+  const displayTimeLeft = () => {
+    const minutes = parseInt(timeLeft / 60, 10);
+    const seconds = parseInt(timeLeft % 60, 10);
     return `${minutes}:${seconds < 10 ? "0" : ""}${seconds}`;
   };
 
